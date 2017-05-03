@@ -1,5 +1,18 @@
 # RHMAP Docker image
 
+## Clone this git rep
+
+```
+$ git clone https://github.com/cvicens/docker-rhmap
+```
+
+## Create a directory to run your projects locally
+You'll mount a volume when you run the docker image and this 'projects' directory will be used in the container to allow persistence.
+
+```
+$ mkdir projects
+```
+
 ## Set up environment to name the image properly
 
 ```
