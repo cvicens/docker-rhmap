@@ -1,6 +1,6 @@
 # RHMAP Docker image
 
-## Clone this git rep
+## Clone this repo
 
 ```
 $ git clone https://github.com/cvicens/docker-rhmap
